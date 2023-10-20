@@ -1,3 +1,5 @@
+Created by: Jeswin Sebastine
+Student Id: 200542636
 #!/bin/bash
 
 # User-defined variables
